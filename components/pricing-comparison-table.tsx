@@ -24,14 +24,14 @@ const featuresData = [
   {
     name: "Ongoing Social Media Management",
     spark: "(2 posts/week included)",
-    engine: "(4 posts/week included)",
+    engine: "(4 posts on two platforms /week included)",
     rocket: "(Daily posts on 2 platforms)",
   },
   {
     name: "Reels / Short Form Videos",
     spark: "(1 reel/week)",
     engine: "(2 reels/week)",
-    rocket: "(3 reels/week)",
+    rocket: "(4 reels/week)",
   },
   { name: "Content Creation", isSubCategory: true },
   { name: "SEO-Optimized Blog Post", spark: "-", engine: "(1 per month)", rocket: "(3 per month)" },
