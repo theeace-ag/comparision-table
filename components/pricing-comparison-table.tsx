@@ -10,11 +10,11 @@ const featuresData = [
 
   // WEBSITE & WEB PRESENCE
   { category: "WEBSITE & WEB PRESENCE" },
-  { name: 'Single-Page "Launch" Website', spark: "✔", engine: "✔", rocket: "✔" },
+  { name: 'Launch website', spark: "✔", engine: "✔", rocket: "✔" },
   { name: "Full Multi-Page Website (Up to 5 Pages)", spark: "-", engine: "✔", rocket: "✔" },
   { name: "Payment Gateway & Shop Setup", spark: "✔", engine: "✔", rocket: "✔" },
   { name: "Foundational SEO Setup", spark: "✔", engine: "✔", rocket: "✔" },
-  { name: 'Advanced "Super" SEO', spark: "-", engine: "-", rocket: "✔" },
+  { name: 'Advanced "Super" SEO', spark: "-", engine: "✔", rocket: "✔" },
   { name: "Google Business Profile Setup", spark: "✔", engine: "✔", rocket: "✔" },
   { spacer: true },
 
@@ -28,13 +28,13 @@ const featuresData = [
     rocket: "(Daily posts on 2 platforms)",
   },
   {
-    name: "Short-Form Videos / Graphics",
-    spark: "(2 graphics/month)",
-    engine: "(1 video/month)",
-    rocket: "(3 videos/month)",
+    name: "Reels / Short Form Videos",
+    spark: "(1 reel/week)",
+    engine: "(2 reels/week)",
+    rocket: "(3 reels/week)",
   },
   { name: "Content Creation", isSubCategory: true },
-  { name: "SEO-Optimized Blog Post", spark: "-", engine: "-", rocket: "(1 per month)" },
+  { name: "SEO-Optimized Blog Post", spark: "-", engine: "(1 per month)", rocket: "(3 per month)" },
   { spacer: true },
 
   // LEAD GENERATION & GROWTH
